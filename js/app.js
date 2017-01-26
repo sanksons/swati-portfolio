@@ -12,10 +12,10 @@ portfolio.data = [];
  * Size of Each Slot.
  * This illustrates the number of images that will be loaded in one go.  
  */
-portfolio.SlotSize = 8;
+portfolio.SlotSize = 10;
 
 /**
  * Number of images we have.
  */
-portfolio.TotalImages = 20;
+portfolio.TotalImages = 50;
 
